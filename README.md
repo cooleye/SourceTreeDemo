@@ -7,3 +7,5 @@
 ## update on github
 
 update local
+
+update origin
